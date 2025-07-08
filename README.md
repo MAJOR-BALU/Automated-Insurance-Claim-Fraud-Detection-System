@@ -57,3 +57,10 @@ fraud_detection_project/
    streamlit run dashboard.py
    ```
 
+   OUTPUT:
+   ![image](https://github.com/user-attachments/assets/75ce1aae-1e58-4a6f-bd8d-4698a62a44de)
+   ![image](https://github.com/user-attachments/assets/9fba67b8-c004-4eb1-85eb-f70093ff4aed)
+   ![image](https://github.com/user-attachments/assets/be625164-726b-45f0-80a8-d26f77f4bf0f)
+
+
+
